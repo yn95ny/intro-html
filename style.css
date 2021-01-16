@@ -25,10 +25,6 @@ body:after {
 }
 
 h1 {
-    grid-row-start: 1;
-    grid-column-start: 1;
-    grid-column-end: 1;
-    color: rgb(104, 85, 57);
     font-size: 20pt;
     font-family: 'Playfair Display', sans-serif;
   
