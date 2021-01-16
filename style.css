@@ -23,7 +23,10 @@ body:after {
     color: #919191;
     font-size: 10pt;
 }
-
+div {
+    width: 300px;
+    padding: 50px;
+}
 //h1 {
 //    font-size: 20pt;
 //    font-family: 'Playfair Display', sans-serif;
